@@ -1,3 +1,9 @@
+REMARK
+======
+Please download the full set of resources in order to run the system:
+https://drive.google.com/drive/folders/1UQtKAnkDD0vNjn5f54IWrFB4tpmqb5iM?usp=sharing
+
+
 NOTE
 ====
 0. This program can be operated in Windows OS only. It is because it will call external Windows software (ffmpeg.exe, ffplay.exe, ffprobe.exe). These executable files cannot be recognized by other operating systems.
